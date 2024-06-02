@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tdd-net-calculadora")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d821e0a450ddd728e77ba9b6faaaefd364fc522")]
 [assembly: System.Reflection.AssemblyProductAttribute("tdd-net-calculadora")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tdd-net-calculadora")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

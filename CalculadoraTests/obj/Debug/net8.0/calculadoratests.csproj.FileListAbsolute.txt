@@ -103,3 +103,4 @@ E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraT
 E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net8.0\calculadoratests.pdb
 E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net8.0\calculadoratests.genruntimeconfig.cache
 E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net8.0\ref\calculadoratests.dll
+E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net8.0\calculadoratests.sourcelink.json

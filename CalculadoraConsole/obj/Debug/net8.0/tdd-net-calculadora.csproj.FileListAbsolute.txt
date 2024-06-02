@@ -12,3 +12,4 @@ E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraC
 E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraConsole\obj\Debug\net8.0\tdd-net-calculadora.pdb
 E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraConsole\obj\Debug\net8.0\tdd-net-calculadora.genruntimeconfig.cache
 E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraConsole\obj\Debug\net8.0\ref\tdd-net-calculadora.dll
+E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraConsole\obj\Debug\net8.0\tdd-net-calculadora.sourcelink.json
