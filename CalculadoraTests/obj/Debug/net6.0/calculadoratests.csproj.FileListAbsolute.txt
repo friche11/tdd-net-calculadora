@@ -1,0 +1,5 @@
+E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net6.0\calculadoratests.csproj.AssemblyReference.cache
+E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net6.0\calculadoratests.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net6.0\calculadoratests.AssemblyInfoInputs.cache
+E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net6.0\calculadoratests.AssemblyInfo.cs
+E:\Code\Workspace do vscode\Projeto pessoal\DIO\tdd-net-calculadora\CalculadoraTests\obj\Debug\net6.0\calculadoratests.csproj.CoreCompileInputs.cache
